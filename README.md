@@ -1,1 +1,1 @@
-Kaggle Datasets solutions for practicing the art of data science and machine learning.
+Kaggle datasets solutions for practicing the art of Data Science and Machine Learning.
